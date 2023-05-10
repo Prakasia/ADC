@@ -1,1 +1,2 @@
-# ADC
+# ADC  
+Reading adc channels
