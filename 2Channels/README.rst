@@ -1,5 +1,4 @@
---BME680
+--Channel0 and Channel1
 
-* connecting SDO - GND slave address 0x76
-* connecting SDO-VDDIO slave address 0x77
-* 
+* GP26  -   Soil Moisture Sensor
+* GP27  -   Air Quality Sensor

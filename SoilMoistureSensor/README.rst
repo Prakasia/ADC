@@ -1,5 +1,4 @@
---BME680
+--SEN0114 SOIL MOISTURE SENSOR
 
-* connecting SDO - GND slave address 0x76
-* connecting SDO-VDDIO slave address 0x77
-* 
+* Sensor connected to channel0 GP26
+ 
